@@ -28,4 +28,5 @@ async def _parse(url: str, profile_name: str, platform_name: str) -> None:
         storage.set_profile(profile_name, profile_photo_url)
     await browser.close()
 
-asyncio.get_event_loop().run_until_complete(_parse(argv[1], argv[2], argv[3]))
+if __name__ == "__main__":
+    asyncio.get_event_loop().run_until_complete(_parse(argv[1], argv[2], argv[3]))
