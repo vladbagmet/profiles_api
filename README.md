@@ -4,7 +4,8 @@ Simple HTTP service to work with Twitter profiles powered by Flask.
 ![twitter-api-demo](https://user-images.githubusercontent.com/23407924/78502536-4a006500-776a-11ea-9c44-4a71ebebc5cb.gif)
 
 ## Prerequisites
-* Python 3.6+
+* Linux or Mac OS operating system
+* Installed Python 3.6+ interpreter
 * Activated new virtual environment
 * Git
 
