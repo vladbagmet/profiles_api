@@ -2,7 +2,7 @@ attrs==19.3.0
 beautifulsoup4==4.8.2
 certifi==2019.11.28
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 lxml==4.6.3
 pyppdf==0.0.12
 pyppeteer==0.0.25
