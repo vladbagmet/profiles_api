@@ -1,4 +1,4 @@
-# Profiles Api
+# Twitter Profiles Pictures Retriever
 Simple HTTP service powered by Flask to retrieve Twitter profiles pictures URLs.
 
 ![twitter-api-demo](https://user-images.githubusercontent.com/23407924/78502536-4a006500-776a-11ea-9c44-4a71ebebc5cb.gif)
