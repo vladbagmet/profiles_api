@@ -10,8 +10,8 @@ Simple HTTP service powered by Flask to retrieve Twitter profiles pictures URLs.
 * Git
 
 ## Installation
-* Clone repository `https://github.com/vladbagmet/profiles_api`
-* `cd profiles_api`
+* Clone repository `https://github.com/vladbagmet/twitter-profiles-api`
+* `cd twitter-profiles-api`
 * Install external dependencies `pip install -r requirements.txt`
 
 ## Launching Service
